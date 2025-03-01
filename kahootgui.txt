@@ -1,0 +1,334 @@
+var _$_8f87=["\x31\x2E\x30\x2E\x32\x35","\x2A","\x67\x65\x74\x45\x6C\x65\x6D\x65\x6E\x74\x73\x42\x79\x54\x61\x67\x4E\x61\x6D\x65","\x6C\x65\x6E\x67\x74\x68","\x67\x65\x74\x41\x74\x74\x72\x69\x62\x75\x74\x65","\x64\x69\x76","\x63\x72\x65\x61\x74\x65\x45\x6C\x65\x6D\x65\x6E\x74","\x63\x6C\x61\x73\x73\x4E\x61\x6D\x65","\x66\x6C\x6F\x61\x74\x69\x6E\x67\x2D\x75\x69","\x70\x6F\x73\x69\x74\x69\x6F\x6E","\x73\x74\x79\x6C\x65","\x61\x62\x73\x6F\x6C\x75\x74\x65","\x74\x6F\x70","\x35\x25","\x6C\x65\x66\x74","\x77\x69\x64\x74\x68","\x32\x35\x76\x77","\x68\x65\x69\x67\x68\x74","\x61\x75\x74\x6F","\x62\x61\x63\x6B\x67\x72\x6F\x75\x6E\x64\x43\x6F\x6C\x6F\x72","\x23\x31\x61\x31\x61\x31\x61","\x62\x6F\x72\x64\x65\x72\x52\x61\x64\x69\x75\x73","\x31\x2E\x35\x76\x77","\x62\x6F\x78\x53\x68\x61\x64\x6F\x77","\x30\x20\x31\x30\x70\x78\x20\x32\x30\x70\x78\x20\x72\x67\x62\x61\x28\x30\x2C\x30\x2C\x30\x2C\x30\x2E\x33\x29","\x62\x6F\x72\x64\x65\x72","\x32\x70\x78\x20\x73\x6F\x6C\x69\x64\x20\x23\x33\x33\x33\x33\x33\x33","\x70\x61\x64\x64\x69\x6E\x67","\x30\x2E\x35\x76\x77","\x7A\x49\x6E\x64\x65\x78","\x39\x39\x39\x39","\x68\x61\x6E\x64\x6C\x65","\x66\x6F\x6E\x74\x46\x61\x6D\x69\x6C\x79","\x22\x4D\x6F\x6E\x74\x73\x65\x72\x72\x61\x74\x22\x2C\x20\x22\x4E\x6F\x74\x6F\x20\x53\x61\x6E\x73\x20\x41\x72\x61\x62\x69\x63\x22\x2C\x20\x22\x48\x65\x6C\x76\x65\x74\x69\x63\x61\x20\x4E\x65\x75\x65\x22\x2C\x20\x48\x65\x6C\x76\x65\x74\x69\x63\x61\x2C\x20\x41\x72\x69\x61\x6C\x2C\x20\x73\x61\x6E\x73\x2D\x73\x65\x72\x69\x66\x3B","\x66\x6F\x6E\x74\x53\x69\x7A\x65","\x31\x2E\x33\x76\x77","\x66\x6F\x6E\x74\x57\x65\x69\x67\x68\x74","\x62\x6F\x6C\x64","\x6C\x65\x74\x74\x65\x72\x53\x70\x61\x63\x69\x6E\x67","\x30\x2E\x31\x76\x77","\x74\x65\x78\x74\x43\x6F\x6E\x74\x65\x6E\x74","\x4B\x61\x68\x6F\x6F\x74\x20\x4D\x65\x6E\x75","\x63\x6F\x6C\x6F\x72","\x77\x68\x69\x74\x65","\x39\x37\x2E\x35\x25","\x32\x76\x77","\x23\x30\x30\x30\x30\x30\x30","\x31\x76\x77","\x63\x75\x72\x73\x6F\x72","\x67\x72\x61\x62","\x74\x65\x78\x74\x41\x6C\x69\x67\x6E","\x70\x61\x64\x64\x69\x6E\x67\x4C\x65\x66\x74","\x32\x2E\x35\x25","\x6C\x69\x6E\x65\x48\x65\x69\x67\x68\x74","\x6D\x61\x72\x67\x69\x6E","\x2D\x30\x2E\x35\x76\x77","\x6D\x61\x72\x67\x69\x6E\x42\x6F\x74\x74\x6F\x6D","\x61\x70\x70\x65\x6E\x64\x43\x68\x69\x6C\x64","\x63\x6C\x6F\x73\x65\x2D\x62\x75\x74\x74\x6F\x6E","\u2715","\x30","\x72\x69\x67\x68\x74","\x31\x32\x2E\x35\x25","\x32\x2E\x35\x76\x77","\x23\x33\x33\x33\x33\x33\x33","\x23\x66\x66\x66\x66\x66\x66","\x30\x20\x31\x76\x77\x20\x30\x20\x30","\x64\x69\x73\x70\x6C\x61\x79","\x66\x6C\x65\x78","\x6A\x75\x73\x74\x69\x66\x79\x43\x6F\x6E\x74\x65\x6E\x74","\x63\x65\x6E\x74\x65\x72","\x61\x6C\x69\x67\x6E\x49\x74\x65\x6D\x73","\x70\x6F\x69\x6E\x74\x65\x72","\x74\x72\x61\x6E\x73\x69\x74\x69\x6F\x6E","\x62\x61\x63\x6B\x67\x72\x6F\x75\x6E\x64\x2D\x63\x6F\x6C\x6F\x72\x20\x30\x2E\x33\x73\x20\x65\x61\x73\x65","\x6D\x69\x6E\x69\x6D\x69\x7A\x65\x2D\x62\x75\x74\x74\x6F\x6E","\u2500","\x30\x20\x30\x20\x30\x20\x30","\x68\x32","\x51\x55\x49\x5A\x20\x49\x44","\x62\x6C\x6F\x63\x6B","\x31\x2E\x34\x76\x77","\x74\x65\x78\x74\x53\x68\x61\x64\x6F\x77","\x62\x6F\x72\x64\x65\x72\x42\x6F\x74\x74\x6F\x6D","\x69\x6E\x70\x75\x74","\x74\x79\x70\x65","\x74\x65\x78\x74","\x62\x6C\x61\x63\x6B","\x70\x6C\x61\x63\x65\x68\x6F\x6C\x64\x65\x72","\x51\x75\x69\x7A\x20\x49\x64\x20\x68\x65\x72\x65\x2E\x2E\x2E","\x32\x30\x76\x77","\x30\x76\x77","\x2E\x31\x76\x77\x20\x73\x6F\x6C\x69\x64\x20\x62\x6C\x61\x63\x6B","\x6F\x75\x74\x6C\x69\x6E\x65","\x6E\x6F\x6E\x65","\x30\x2E\x38\x76\x77","\x31\x2E\x31\x76\x77","\x61\x6C\x6C\x20\x30\x2E\x33\x73\x20\x65\x61\x73\x65","\x50\x4F\x49\x4E\x54\x53\x20\x50\x45\x52\x20\x51\x55\x45\x53\x54\x49\x4F\x4E","\x23\x32\x32\x32\x32\x32\x32","\x39\x30\x25","\x6D\x61\x72\x67\x69\x6E\x4C\x65\x66\x74","\x6D\x61\x72\x67\x69\x6E\x52\x69\x67\x68\x74","\x72\x61\x6E\x67\x65","\x6D\x69\x6E","\x35\x30\x30","\x6D\x61\x78","\x31\x30\x30\x30","\x76\x61\x6C\x75\x65","\x39\x35\x30","\x31\x30\x30\x25","\x63\x75\x73\x74\x6F\x6D\x2D\x73\x6C\x69\x64\x65\x72","\x68\x65\x61\x64","\x41\x4E\x53\x57\x45\x52\x49\x4E\x47","\x73\x77\x69\x74\x63\x68\x2D\x63\x6F\x6E\x74\x61\x69\x6E\x65\x72","\x73\x70\x61\x6E","\x41\x75\x74\x6F\x20\x41\x6E\x73\x77\x65\x72","\x73\x77\x69\x74\x63\x68\x2D\x6C\x61\x62\x65\x6C","\x31\x2E\x32\x76\x77","\x6C\x61\x62\x65\x6C","\x73\x77\x69\x74\x63\x68","\x63\x68\x65\x63\x6B\x62\x6F\x78","\x63\x68\x61\x6E\x67\x65","\x63\x68\x65\x63\x6B\x65\x64","\x49\x4C\x53\x65\x74\x51\x75\x65\x73\x74\x69\x6F\x6E","\x71\x75\x65\x73\x74\x69\x6F\x6E\x4E\x75\x6D","\x61\x64\x64\x45\x76\x65\x6E\x74\x4C\x69\x73\x74\x65\x6E\x65\x72","\x73\x6C\x69\x64\x65\x72","\x53\x68\x6F\x77\x20\x41\x6E\x73\x77\x65\x72\x73","\x49\x4E\x46\x4F","\x51\x75\x65\x73\x74\x69\x6F\x6E\x20\x30\x20\x2F\x20\x30","\x49\x6E\x70\x75\x74\x20\x6C\x61\x67\x20\x3A\x20\x31\x32\x35\x20\x6D\x73","\x68\x31","\x4B\x61\x68\x6F\x6F\x74\x20\x4D\x65\x6E\x75\x20\x56","\x31\x2E\x38\x76\x77","\x36\x30\x30","\x6D\x61\x72\x67\x69\x6E\x54\x6F\x70","\x47\x69\x74\x48\x75\x62\x3A","\x30\x20\x31\x76\x77","\x61","\x6D\x61\x72\x63\x75\x73","\x68\x72\x65\x66","\x68\x74\x74\x70\x73\x3A\x2F\x2F\x67\x69\x74\x68\x75\x62\x2E\x63\x6F\x6D\x2F\x66\x72\x61\x75\x64\x63\x68\x6F\x73\x65\x6D\x65","\x74\x61\x72\x67\x65\x74","\x5F\x62\x6C\x61\x6E\x6B","\x63\x6C\x69\x63\x6B","\x72\x65\x6D\x6F\x76\x65\x43\x68\x69\x6C\x64","\x62\x6F\x64\x79","\x74\x69\x6D\x65","\x69\x6E\x63\x6C\x75\x64\x65\x73","\x71\x75\x69\x7A","\x6D\x75\x6C\x74\x69\x70\x6C\x65\x5F\x73\x65\x6C\x65\x63\x74\x5F\x71\x75\x69\x7A","\x61\x6E\x73\x77\x65\x72\x73","\x69\x6E\x63\x6F\x72\x72\x65\x63\x74\x41\x6E\x73\x77\x65\x72\x73","\x63\x6F\x72\x72\x65\x63\x74","\x70\x75\x73\x68","\x66\x6F\x72\x45\x61\x63\x68","\x63\x68\x6F\x69\x63\x65\x73","\x6F\x70\x65\x6E\x5F\x65\x6E\x64\x65\x64","\x61\x6E\x73\x77\x65\x72","\x68\x74\x74\x70\x73\x3A\x2F\x2F\x6B\x61\x68\x6F\x6F\x74\x2E\x69\x74\x2F\x72\x65\x73\x74\x2F\x6B\x61\x68\x6F\x6F\x74\x73\x2F","","\x72\x65\x64","\x6E\x75\x6D\x51\x75\x65\x73\x74\x69\x6F\x6E\x73","\x63\x61\x74\x63\x68","\x67\x72\x65\x65\x6E","\x71\x75\x65\x73\x74\x69\x6F\x6E\x73","\x74\x68\x65\x6E","\x6F\x6B","\x6A\x73\x6F\x6E","\x6D\x6F\x75\x73\x65\x64\x6F\x77\x6E","\x63\x6C\x69\x65\x6E\x74\x58","\x67\x65\x74\x42\x6F\x75\x6E\x64\x69\x6E\x67\x43\x6C\x69\x65\x6E\x74\x52\x65\x63\x74","\x63\x6C\x69\x65\x6E\x74\x59","\x6D\x6F\x75\x73\x65\x6D\x6F\x76\x65","\x70\x78","\x6D\x6F\x75\x73\x65\x75\x70","\x64\x61\x74\x61\x2D\x66\x75\x6E\x63\x74\x69\x6F\x6E\x61\x6C\x2D\x73\x65\x6C\x65\x63\x74\x6F\x72","\x61\x6E\x73\x77\x65\x72\x2D","\x62\x75\x74\x74\x6F\x6E","\x72\x67\x62\x28\x30\x2C\x20\x32\x35\x35\x2C\x20\x30\x29","\x72\x67\x62\x28\x32\x35\x35\x2C\x20\x30\x2C\x20\x30\x29","\x74\x6F\x53\x74\x72\x69\x6E\x67","\x6B\x65\x79\x64\x6F\x77\x6E","\x64\x69\x73\x70\x61\x74\x63\x68\x45\x76\x65\x6E\x74","\x6D\x75\x6C\x74\x69\x2D\x73\x65\x6C\x65\x63\x74\x2D\x73\x75\x62\x6D\x69\x74\x2D\x62\x75\x74\x74\x6F\x6E","\x6B\x65\x79","\x68","\x61\x6C\x74\x4B\x65\x79","\x78","\x71\x75\x65\x73\x74\x69\x6F\x6E\x2D\x69\x6E\x64\x65\x78\x2D\x63\x6F\x75\x6E\x74\x65\x72","\x61\x6E\x73\x77\x65\x72\x2D\x30","\x6C\x61\x73\x74\x41\x6E\x73\x77\x65\x72\x65\x64\x51\x75\x65\x73\x74\x69\x6F\x6E","\x73\x63\x6F\x72\x65\x2D\x69\x6E\x63\x72\x65\x6D\x65\x6E\x74","\x20","\x73\x70\x6C\x69\x74","\x72\x6F\x75\x6E\x64","\x51\x75\x65\x73\x74\x69\x6F\x6E\x20","\x20\x2F\x20","\x49\x6E\x70\x75\x74\x20\x6C\x61\x67\x20\x3A\x20","\x20\x6D\x73","\x6D\x6F\x75\x73\x65\x6F\x76\x65\x72","\x23\x66\x66\x34\x34\x34\x34","\x6D\x6F\x75\x73\x65\x6F\x75\x74","\x23\x34\x34\x34\x34\x34\x34"];
+var Version=_$_8f87[0];//0
+var questions=[];//2
+var info={numQuestions:0,questionNum:-1,lastAnsweredQuestion:-1,defaultIL:true,ILSetQuestion:-1};//3
+var PPT=950;//10
+var Answered_PPT=950;//11
+var autoAnswer=false;//12
+var showAnswers=false;//13
+var inputLag=100;//14
+function FindByAttributeValue(_0x1219B,_0x121BF,_0x121A7)
+{
+	_0x121A7= _0x121A7|| _$_8f87[1];var _0x1218F=document[_$_8f87[2]](_0x121A7);//18
+	for(var _0x121B3=0;_0x121B3< _0x1218F[_$_8f87[3]];_0x121B3++)
+	{
+		if(_0x1218F[_0x121B3][_$_8f87[4]](_0x1219B)== _0x121BF)
+		{
+			return _0x1218F[_0x121B3]
+		}
+		
+	}
+	
+}
+const uiElement=document[_$_8f87[6]](_$_8f87[5]);//24
+uiElement[_$_8f87[7]]= _$_8f87[8];uiElement[_$_8f87[10]][_$_8f87[9]]= _$_8f87[11];uiElement[_$_8f87[10]][_$_8f87[12]]= _$_8f87[13];uiElement[_$_8f87[10]][_$_8f87[14]]= _$_8f87[13];uiElement[_$_8f87[10]][_$_8f87[15]]= _$_8f87[16];uiElement[_$_8f87[10]][_$_8f87[17]]= _$_8f87[18];uiElement[_$_8f87[10]][_$_8f87[19]]= _$_8f87[20];uiElement[_$_8f87[10]][_$_8f87[21]]= _$_8f87[22];uiElement[_$_8f87[10]][_$_8f87[23]]= _$_8f87[24];uiElement[_$_8f87[10]][_$_8f87[25]]= _$_8f87[26];uiElement[_$_8f87[10]][_$_8f87[27]]= _$_8f87[28];uiElement[_$_8f87[10]][_$_8f87[29]]= _$_8f87[30];const handle=document[_$_8f87[6]](_$_8f87[5]);//38
+handle[_$_8f87[7]]= _$_8f87[31];handle[_$_8f87[10]][_$_8f87[32]]= _$_8f87[33];handle[_$_8f87[10]][_$_8f87[34]]= _$_8f87[35];handle[_$_8f87[10]][_$_8f87[36]]= _$_8f87[37];handle[_$_8f87[10]][_$_8f87[38]]= _$_8f87[39];handle[_$_8f87[40]]= _$_8f87[41];handle[_$_8f87[10]][_$_8f87[42]]= _$_8f87[43];handle[_$_8f87[10]][_$_8f87[15]]= _$_8f87[44];handle[_$_8f87[10]][_$_8f87[17]]= _$_8f87[45];handle[_$_8f87[10]][_$_8f87[19]]= _$_8f87[46];handle[_$_8f87[10]][_$_8f87[21]]= _$_8f87[47];handle[_$_8f87[10]][_$_8f87[48]]= _$_8f87[49];handle[_$_8f87[10]][_$_8f87[50]]= _$_8f87[14];handle[_$_8f87[10]][_$_8f87[51]]= _$_8f87[52];handle[_$_8f87[10]][_$_8f87[53]]= _$_8f87[45];handle[_$_8f87[10]][_$_8f87[54]]= _$_8f87[55];handle[_$_8f87[10]][_$_8f87[56]]= _$_8f87[28];uiElement[_$_8f87[57]](handle);const closeButton=document[_$_8f87[6]](_$_8f87[5]);//58
+closeButton[_$_8f87[7]]= _$_8f87[58];closeButton[_$_8f87[40]]= _$_8f87[59];closeButton[_$_8f87[10]][_$_8f87[9]]= _$_8f87[11];closeButton[_$_8f87[10]][_$_8f87[12]]= _$_8f87[60];closeButton[_$_8f87[10]][_$_8f87[61]]= _$_8f87[60];closeButton[_$_8f87[10]][_$_8f87[15]]= _$_8f87[62];closeButton[_$_8f87[10]][_$_8f87[17]]= _$_8f87[63];closeButton[_$_8f87[10]][_$_8f87[19]]= _$_8f87[64];closeButton[_$_8f87[10]][_$_8f87[42]]= _$_8f87[65];closeButton[_$_8f87[10]][_$_8f87[21]]= _$_8f87[66];closeButton[_$_8f87[10]][_$_8f87[67]]= _$_8f87[68];closeButton[_$_8f87[10]][_$_8f87[69]]= _$_8f87[70];closeButton[_$_8f87[10]][_$_8f87[71]]= _$_8f87[70];closeButton[_$_8f87[10]][_$_8f87[48]]= _$_8f87[72];closeButton[_$_8f87[10]][_$_8f87[73]]= _$_8f87[74];handle[_$_8f87[57]](closeButton);const minimizeButton=document[_$_8f87[6]](_$_8f87[5]);//76
+minimizeButton[_$_8f87[7]]= _$_8f87[75];minimizeButton[_$_8f87[40]]= _$_8f87[76];minimizeButton[_$_8f87[10]][_$_8f87[42]]= _$_8f87[43];minimizeButton[_$_8f87[10]][_$_8f87[9]]= _$_8f87[11];minimizeButton[_$_8f87[10]][_$_8f87[12]]= _$_8f87[60];minimizeButton[_$_8f87[10]][_$_8f87[61]]= _$_8f87[62];minimizeButton[_$_8f87[10]][_$_8f87[15]]= _$_8f87[62];minimizeButton[_$_8f87[10]][_$_8f87[17]]= _$_8f87[63];minimizeButton[_$_8f87[10]][_$_8f87[19]]= _$_8f87[64];minimizeButton[_$_8f87[10]][_$_8f87[21]]= _$_8f87[77];minimizeButton[_$_8f87[10]][_$_8f87[67]]= _$_8f87[68];minimizeButton[_$_8f87[10]][_$_8f87[69]]= _$_8f87[70];minimizeButton[_$_8f87[10]][_$_8f87[71]]= _$_8f87[70];minimizeButton[_$_8f87[10]][_$_8f87[48]]= _$_8f87[72];minimizeButton[_$_8f87[10]][_$_8f87[73]]= _$_8f87[74];handle[_$_8f87[57]](minimizeButton);const header=document[_$_8f87[6]](_$_8f87[78]);//94
+header[_$_8f87[40]]= _$_8f87[79];header[_$_8f87[10]][_$_8f87[67]]= _$_8f87[80];header[_$_8f87[10]][_$_8f87[54]]= _$_8f87[47];header[_$_8f87[10]][_$_8f87[50]]= _$_8f87[70];header[_$_8f87[10]][_$_8f87[32]]= _$_8f87[33];header[_$_8f87[10]][_$_8f87[34]]= _$_8f87[81];header[_$_8f87[10]][_$_8f87[42]]= _$_8f87[43];header[_$_8f87[10]][_$_8f87[82]]= "\x0D\x0A\x20\x20\x2D\x31\x70\x78\x20\x2D\x31\x70\x78\x20\x30\x20\x72\x67\x62\x28\x34\x37\x2C\x20\x34\x37\x2C\x20\x34\x37\x29\x2C\x0D\x0A\x20\x20\x31\x70\x78\x20\x2D\x31\x70\x78\x20\x30\x20\x72\x67\x62\x28\x34\x37\x2C\x20\x34\x37\x2C\x20\x34\x37\x29\x2C\x0D\x0A\x20\x20\x2D\x31\x70\x78\x20\x31\x70\x78\x20\x30\x20\x72\x67\x62\x28\x34\x37\x2C\x20\x34\x37\x2C\x20\x34\x37\x29\x2C\x0D\x0A\x20\x20\x31\x70\x78\x20\x31\x70\x78\x20\x30\x20\x72\x67\x62\x28\x34\x37\x2C\x20\x34\x37\x2C\x20\x34\x37\x29\x0D\x0A";header[_$_8f87[10]][_$_8f87[27]]= _$_8f87[28];header[_$_8f87[10]][_$_8f87[83]]= _$_8f87[26];uiElement[_$_8f87[57]](header);const inputContainer=document[_$_8f87[6]](_$_8f87[5]);//113
+inputContainer[_$_8f87[10]][_$_8f87[67]]= _$_8f87[68];inputContainer[_$_8f87[10]][_$_8f87[69]]= _$_8f87[70];const inputBox=document[_$_8f87[6]](_$_8f87[84]);//117
+inputBox[_$_8f87[85]]= _$_8f87[86];inputBox[_$_8f87[10]][_$_8f87[42]]= _$_8f87[87];inputBox[_$_8f87[88]]= _$_8f87[89];inputBox[_$_8f87[10]][_$_8f87[15]]= _$_8f87[90];inputBox[_$_8f87[10]][_$_8f87[17]]= _$_8f87[22];inputBox[_$_8f87[10]][_$_8f87[54]]= _$_8f87[91];inputBox[_$_8f87[10]][_$_8f87[27]]= _$_8f87[91];inputBox[_$_8f87[10]][_$_8f87[27]]= _$_8f87[60];inputBox[_$_8f87[10]][_$_8f87[25]]= _$_8f87[92];inputBox[_$_8f87[10]][_$_8f87[21]]= _$_8f87[47];inputBox[_$_8f87[10]][_$_8f87[93]]= _$_8f87[94];inputBox[_$_8f87[10]][_$_8f87[50]]= _$_8f87[70];inputBox[_$_8f87[10]][_$_8f87[34]]= _$_8f87[47];inputBox[_$_8f87[10]][_$_8f87[19]]= _$_8f87[64];inputBox[_$_8f87[10]][_$_8f87[42]]= _$_8f87[65];inputBox[_$_8f87[10]][_$_8f87[25]]= _$_8f87[94];inputBox[_$_8f87[10]][_$_8f87[27]]= _$_8f87[95];inputBox[_$_8f87[10]][_$_8f87[34]]= _$_8f87[96];inputBox[_$_8f87[10]][_$_8f87[73]]= _$_8f87[97];inputContainer[_$_8f87[57]](inputBox);uiElement[_$_8f87[57]](inputContainer);const header2=document[_$_8f87[6]](_$_8f87[78]);//141
+header2[_$_8f87[40]]= _$_8f87[98];header2[_$_8f87[10]][_$_8f87[67]]= _$_8f87[80];header2[_$_8f87[10]][_$_8f87[54]]= _$_8f87[47];header2[_$_8f87[10]][_$_8f87[50]]= _$_8f87[70];header2[_$_8f87[10]][_$_8f87[32]]= _$_8f87[33];header2[_$_8f87[10]][_$_8f87[34]]= _$_8f87[81];header2[_$_8f87[10]][_$_8f87[42]]= _$_8f87[43];header2[_$_8f87[10]][_$_8f87[82]]= "\x0D\x0A\x20\x20\x2D\x31\x70\x78\x20\x2D\x31\x70\x78\x20\x30\x20\x72\x67\x62\x28\x34\x37\x2C\x20\x34\x37\x2C\x20\x34\x37\x29\x2C\x0D\x0A\x20\x20\x31\x70\x78\x20\x2D\x31\x70\x78\x20\x30\x20\x72\x67\x62\x28\x34\x37\x2C\x20\x34\x37\x2C\x20\x34\x37\x29\x2C\x0D\x0A\x20\x20\x2D\x31\x70\x78\x20\x31\x70\x78\x20\x30\x20\x72\x67\x62\x28\x34\x37\x2C\x20\x34\x37\x2C\x20\x34\x37\x29\x2C\x0D\x0A\x20\x20\x31\x70\x78\x20\x31\x70\x78\x20\x30\x20\x72\x67\x62\x28\x34\x37\x2C\x20\x34\x37\x2C\x20\x34\x37\x29\x0D\x0A";header2[_$_8f87[10]][_$_8f87[27]]= _$_8f87[28];header2[_$_8f87[10]][_$_8f87[83]]= _$_8f87[26];uiElement[_$_8f87[57]](header2);const pointsContainer=document[_$_8f87[6]](_$_8f87[5]);//160
+pointsContainer[_$_8f87[10]][_$_8f87[19]]= _$_8f87[99];pointsContainer[_$_8f87[10]][_$_8f87[27]]= _$_8f87[95];pointsContainer[_$_8f87[10]][_$_8f87[21]]= _$_8f87[47];pointsContainer[_$_8f87[10]][_$_8f87[54]]= _$_8f87[47];pointsContainer[_$_8f87[10]][_$_8f87[15]]= _$_8f87[100];pointsContainer[_$_8f87[10]][_$_8f87[101]]= _$_8f87[18];pointsContainer[_$_8f87[10]][_$_8f87[102]]= _$_8f87[18];const pointsSlider=document[_$_8f87[6]](_$_8f87[84]);//169
+pointsSlider[_$_8f87[85]]= _$_8f87[103];pointsSlider[_$_8f87[104]]= _$_8f87[105];pointsSlider[_$_8f87[106]]= _$_8f87[107];pointsSlider[_$_8f87[108]]= _$_8f87[109];pointsSlider[_$_8f87[10]][_$_8f87[15]]= _$_8f87[110];pointsSlider[_$_8f87[7]]= _$_8f87[111];pointsContainer[_$_8f87[57]](pointsSlider);uiElement[_$_8f87[57]](pointsContainer);const style=document[_$_8f87[6]](_$_8f87[10]);//180
+style[_$_8f87[40]]= "\x0D\x0A\x2E\x63\x75\x73\x74\x6F\x6D\x2D\x73\x6C\x69\x64\x65\x72\x20\x7B\x0D\x0A\x20\x20\x20\x20\x2D\x77\x65\x62\x6B\x69\x74\x2D\x61\x70\x70\x65\x61\x72\x61\x6E\x63\x65\x3A\x20\x6E\x6F\x6E\x65\x3B\x0D\x0A\x20\x20\x20\x20\x77\x69\x64\x74\x68\x3A\x20\x31\x30\x30\x25\x3B\x0D\x0A\x20\x20\x20\x20\x68\x65\x69\x67\x68\x74\x3A\x20\x35\x70\x78\x3B\x0D\x0A\x20\x20\x20\x20\x62\x6F\x72\x64\x65\x72\x2D\x72\x61\x64\x69\x75\x73\x3A\x20\x35\x70\x78\x3B\x0D\x0A\x20\x20\x20\x20\x62\x61\x63\x6B\x67\x72\x6F\x75\x6E\x64\x3A\x20\x23\x33\x33\x33\x33\x33\x33\x3B\x0D\x0A\x20\x20\x20\x20\x6F\x75\x74\x6C\x69\x6E\x65\x3A\x20\x6E\x6F\x6E\x65\x3B\x0D\x0A\x7D\x0D\x0A\x0D\x0A\x2E\x63\x75\x73\x74\x6F\x6D\x2D\x73\x6C\x69\x64\x65\x72\x3A\x3A\x2D\x77\x65\x62\x6B\x69\x74\x2D\x73\x6C\x69\x64\x65\x72\x2D\x74\x68\x75\x6D\x62\x20\x7B\x0D\x0A\x20\x20\x20\x20\x2D\x77\x65\x62\x6B\x69\x74\x2D\x61\x70\x70\x65\x61\x72\x61\x6E\x63\x65\x3A\x20\x6E\x6F\x6E\x65\x3B\x0D\x0A\x20\x20\x20\x20\x61\x70\x70\x65\x61\x72\x61\x6E\x63\x65\x3A\x20\x6E\x6F\x6E\x65\x3B\x0D\x0A\x20\x20\x20\x20\x77\x69\x64\x74\x68\x3A\x20\x31\x35\x70\x78\x3B\x0D\x0A\x20\x20\x20\x20\x68\x65\x69\x67\x68\x74\x3A\x20\x31\x35\x70\x78\x3B\x0D\x0A\x20\x20\x20\x20\x62\x6F\x72\x64\x65\x72\x2D\x72\x61\x64\x69\x75\x73\x3A\x20\x35\x30\x25\x3B\x0D\x0A\x20\x20\x20\x20\x62\x61\x63\x6B\x67\x72\x6F\x75\x6E\x64\x3A\x20\x77\x68\x69\x74\x65\x3B\x0D\x0A\x20\x20\x20\x20\x63\x75\x72\x73\x6F\x72\x3A\x20\x70\x6F\x69\x6E\x74\x65\x72\x3B\x0D\x0A\x7D\x0D\x0A";document[_$_8f87[112]][_$_8f87[57]](style);const header3=document[_$_8f87[6]](_$_8f87[78]);//203
+header3[_$_8f87[40]]= _$_8f87[113];header3[_$_8f87[10]][_$_8f87[67]]= _$_8f87[80];header3[_$_8f87[10]][_$_8f87[54]]= _$_8f87[47];header3[_$_8f87[10]][_$_8f87[50]]= _$_8f87[70];header3[_$_8f87[10]][_$_8f87[32]]= _$_8f87[33];header3[_$_8f87[10]][_$_8f87[34]]= _$_8f87[81];header3[_$_8f87[10]][_$_8f87[42]]= _$_8f87[43];header3[_$_8f87[10]][_$_8f87[82]]= "\x0D\x0A\x20\x20\x2D\x31\x70\x78\x20\x2D\x31\x70\x78\x20\x30\x20\x72\x67\x62\x28\x34\x37\x2C\x20\x34\x37\x2C\x20\x34\x37\x29\x2C\x0D\x0A\x20\x20\x31\x70\x78\x20\x2D\x31\x70\x78\x20\x30\x20\x72\x67\x62\x28\x34\x37\x2C\x20\x34\x37\x2C\x20\x34\x37\x29\x2C\x0D\x0A\x20\x20\x2D\x31\x70\x78\x20\x31\x70\x78\x20\x30\x20\x72\x67\x62\x28\x34\x37\x2C\x20\x34\x37\x2C\x20\x34\x37\x29\x2C\x0D\x0A\x20\x20\x31\x70\x78\x20\x31\x70\x78\x20\x30\x20\x72\x67\x62\x28\x34\x37\x2C\x20\x34\x37\x2C\x20\x34\x37\x29\x0D\x0A";header3[_$_8f87[10]][_$_8f87[27]]= _$_8f87[28];header3[_$_8f87[10]][_$_8f87[83]]= _$_8f87[26];uiElement[_$_8f87[57]](header3);const autoAnswerSwitchContainer=document[_$_8f87[6]](_$_8f87[5]);//222
+autoAnswerSwitchContainer[_$_8f87[7]]= _$_8f87[114];autoAnswerSwitchContainer[_$_8f87[10]][_$_8f87[67]]= _$_8f87[68];autoAnswerSwitchContainer[_$_8f87[10]][_$_8f87[71]]= _$_8f87[70];autoAnswerSwitchContainer[_$_8f87[10]][_$_8f87[69]]= _$_8f87[70];uiElement[_$_8f87[57]](autoAnswerSwitchContainer);const autoAnswerLabel=document[_$_8f87[6]](_$_8f87[115]);//229
+autoAnswerLabel[_$_8f87[40]]= _$_8f87[116];autoAnswerLabel[_$_8f87[7]]= _$_8f87[117];autoAnswerLabel[_$_8f87[10]][_$_8f87[32]]= _$_8f87[33];autoAnswerLabel[_$_8f87[10]][_$_8f87[34]]= _$_8f87[118];autoAnswerLabel[_$_8f87[10]][_$_8f87[42]]= _$_8f87[43];autoAnswerLabel[_$_8f87[10]][_$_8f87[54]]= _$_8f87[63];autoAnswerSwitchContainer[_$_8f87[57]](autoAnswerLabel);const autoAnswerSwitch=document[_$_8f87[6]](_$_8f87[119]);//238
+autoAnswerSwitch[_$_8f87[7]]= _$_8f87[120];autoAnswerSwitchContainer[_$_8f87[57]](autoAnswerSwitch);const autoAnswerInput=document[_$_8f87[6]](_$_8f87[84]);//242
+autoAnswerInput[_$_8f87[85]]= _$_8f87[121];autoAnswerInput[_$_8f87[126]](_$_8f87[122],function()
+{
+	autoAnswer= this[_$_8f87[123]];info[_$_8f87[124]]= info[_$_8f87[125]]
+}
+);autoAnswerSwitch[_$_8f87[57]](autoAnswerInput);const autoAnswerSlider=document[_$_8f87[6]](_$_8f87[115]);//250
+autoAnswerSlider[_$_8f87[7]]= _$_8f87[127];autoAnswerSwitch[_$_8f87[57]](autoAnswerSlider);const showAnswersSwitchContainer=document[_$_8f87[6]](_$_8f87[5]);//254
+showAnswersSwitchContainer[_$_8f87[7]]= _$_8f87[114];showAnswersSwitchContainer[_$_8f87[10]][_$_8f87[67]]= _$_8f87[68];showAnswersSwitchContainer[_$_8f87[10]][_$_8f87[71]]= _$_8f87[70];showAnswersSwitchContainer[_$_8f87[10]][_$_8f87[69]]= _$_8f87[70];uiElement[_$_8f87[57]](showAnswersSwitchContainer);const showAnswersLabel=document[_$_8f87[6]](_$_8f87[115]);//261
+showAnswersLabel[_$_8f87[40]]= _$_8f87[128];showAnswersLabel[_$_8f87[7]]= _$_8f87[117];showAnswersLabel[_$_8f87[10]][_$_8f87[32]]= _$_8f87[33];showAnswersLabel[_$_8f87[10]][_$_8f87[34]]= _$_8f87[118];showAnswersLabel[_$_8f87[10]][_$_8f87[42]]= _$_8f87[43];showAnswersLabel[_$_8f87[10]][_$_8f87[54]]= _$_8f87[63];showAnswersSwitchContainer[_$_8f87[57]](showAnswersLabel);const showAnswersSwitch=document[_$_8f87[6]](_$_8f87[119]);//270
+showAnswersSwitch[_$_8f87[7]]= _$_8f87[120];showAnswersSwitchContainer[_$_8f87[57]](showAnswersSwitch);const showAnswersInput=document[_$_8f87[6]](_$_8f87[84]);//274
+showAnswersInput[_$_8f87[85]]= _$_8f87[121];showAnswersInput[_$_8f87[126]](_$_8f87[122],function()
+{
+	showAnswers= this[_$_8f87[123]]
+}
+);showAnswersSwitch[_$_8f87[57]](showAnswersInput);const showAnswersSlider=document[_$_8f87[6]](_$_8f87[115]);//281
+showAnswersSlider[_$_8f87[7]]= _$_8f87[127];showAnswersSwitch[_$_8f87[57]](showAnswersSlider);const header4=document[_$_8f87[6]](_$_8f87[78]);//285
+header4[_$_8f87[40]]= _$_8f87[129];header4[_$_8f87[10]][_$_8f87[67]]= _$_8f87[80];header4[_$_8f87[10]][_$_8f87[54]]= _$_8f87[47];header4[_$_8f87[10]][_$_8f87[50]]= _$_8f87[70];header4[_$_8f87[10]][_$_8f87[32]]= _$_8f87[33];header4[_$_8f87[10]][_$_8f87[34]]= _$_8f87[81];header4[_$_8f87[10]][_$_8f87[42]]= _$_8f87[43];header4[_$_8f87[10]][_$_8f87[82]]= "\x0D\x0A\x20\x20\x2D\x31\x70\x78\x20\x2D\x31\x70\x78\x20\x30\x20\x72\x67\x62\x28\x34\x37\x2C\x20\x34\x37\x2C\x20\x34\x37\x29\x2C\x0D\x0A\x20\x20\x31\x70\x78\x20\x2D\x31\x70\x78\x20\x30\x20\x72\x67\x62\x28\x34\x37\x2C\x20\x34\x37\x2C\x20\x34\x37\x29\x2C\x0D\x0A\x20\x20\x2D\x31\x70\x78\x20\x31\x70\x78\x20\x30\x20\x72\x67\x62\x28\x34\x37\x2C\x20\x34\x37\x2C\x20\x34\x37\x29\x2C\x0D\x0A\x20\x20\x31\x70\x78\x20\x31\x70\x78\x20\x30\x20\x72\x67\x62\x28\x34\x37\x2C\x20\x34\x37\x2C\x20\x34\x37\x29\x0D\x0A";header4[_$_8f87[10]][_$_8f87[27]]= _$_8f87[28];header4[_$_8f87[10]][_$_8f87[83]]= _$_8f87[26];uiElement[_$_8f87[57]](header4);const questionsLabel=document[_$_8f87[6]](_$_8f87[115]);//304
+questionsLabel[_$_8f87[40]]= _$_8f87[130];questionsLabel[_$_8f87[10]][_$_8f87[67]]= _$_8f87[80];questionsLabel[_$_8f87[10]][_$_8f87[32]]= _$_8f87[33];questionsLabel[_$_8f87[10]][_$_8f87[34]]= _$_8f87[118];questionsLabel[_$_8f87[10]][_$_8f87[50]]= _$_8f87[70];questionsLabel[_$_8f87[10]][_$_8f87[54]]= _$_8f87[47];questionsLabel[_$_8f87[10]][_$_8f87[101]]= _$_8f87[47];questionsLabel[_$_8f87[10]][_$_8f87[102]]= _$_8f87[47];questionsLabel[_$_8f87[10]][_$_8f87[42]]= _$_8f87[43];questionsLabel[_$_8f87[10]][_$_8f87[19]]= _$_8f87[99];questionsLabel[_$_8f87[10]][_$_8f87[27]]= _$_8f87[95];questionsLabel[_$_8f87[10]][_$_8f87[21]]= _$_8f87[95];questionsLabel[_$_8f87[10]][_$_8f87[36]]= _$_8f87[105];uiElement[_$_8f87[57]](questionsLabel);const inputLagLabel=document[_$_8f87[6]](_$_8f87[115]);//320
+inputLagLabel[_$_8f87[40]]= _$_8f87[131];inputLagLabel[_$_8f87[10]][_$_8f87[67]]= _$_8f87[80];inputLagLabel[_$_8f87[10]][_$_8f87[32]]= _$_8f87[33];inputLagLabel[_$_8f87[10]][_$_8f87[34]]= _$_8f87[118];inputLagLabel[_$_8f87[10]][_$_8f87[50]]= _$_8f87[70];inputLagLabel[_$_8f87[10]][_$_8f87[54]]= _$_8f87[47];inputLagLabel[_$_8f87[10]][_$_8f87[101]]= _$_8f87[47];inputLagLabel[_$_8f87[10]][_$_8f87[102]]= _$_8f87[47];inputLagLabel[_$_8f87[10]][_$_8f87[42]]= _$_8f87[43];inputLagLabel[_$_8f87[10]][_$_8f87[19]]= _$_8f87[99];inputLagLabel[_$_8f87[10]][_$_8f87[27]]= _$_8f87[95];inputLagLabel[_$_8f87[10]][_$_8f87[21]]= _$_8f87[95];inputLagLabel[_$_8f87[10]][_$_8f87[36]]= _$_8f87[105];uiElement[_$_8f87[57]](inputLagLabel);const versionLabel=document[_$_8f87[6]](_$_8f87[132]);//336
+versionLabel[_$_8f87[40]]= _$_8f87[133]+ Version;versionLabel[_$_8f87[10]][_$_8f87[32]]= _$_8f87[33];versionLabel[_$_8f87[10]][_$_8f87[34]]= _$_8f87[134];versionLabel[_$_8f87[10]][_$_8f87[36]]= _$_8f87[135];versionLabel[_$_8f87[10]][_$_8f87[38]]= _$_8f87[39];versionLabel[_$_8f87[10]][_$_8f87[67]]= _$_8f87[80];versionLabel[_$_8f87[10]][_$_8f87[50]]= _$_8f87[70];versionLabel[_$_8f87[10]][_$_8f87[136]]= _$_8f87[45];versionLabel[_$_8f87[10]][_$_8f87[101]]= _$_8f87[47];versionLabel[_$_8f87[10]][_$_8f87[102]]= _$_8f87[47];versionLabel[_$_8f87[10]][_$_8f87[42]]= _$_8f87[43];uiElement[_$_8f87[57]](versionLabel);const githubContainer=document[_$_8f87[6]](_$_8f87[5]);//350
+githubContainer[_$_8f87[10]][_$_8f87[50]]= _$_8f87[70];githubContainer[_$_8f87[10]][_$_8f87[136]]= _$_8f87[47];githubContainer[_$_8f87[10]][_$_8f87[19]]= _$_8f87[99];githubContainer[_$_8f87[10]][_$_8f87[27]]= _$_8f87[47];githubContainer[_$_8f87[10]][_$_8f87[21]]= _$_8f87[95];githubContainer[_$_8f87[10]][_$_8f87[54]]= _$_8f87[47];const githubLabel=document[_$_8f87[6]](_$_8f87[115]);//358
+githubLabel[_$_8f87[40]]= _$_8f87[137];githubLabel[_$_8f87[10]][_$_8f87[32]]= _$_8f87[33];githubLabel[_$_8f87[10]][_$_8f87[34]]= _$_8f87[118];githubLabel[_$_8f87[10]][_$_8f87[54]]= _$_8f87[138];githubLabel[_$_8f87[10]][_$_8f87[42]]= _$_8f87[43];githubContainer[_$_8f87[57]](githubLabel);const githubUrl=document[_$_8f87[6]](_$_8f87[139]);//366
+githubUrl[_$_8f87[40]]= _$_8f87[140];githubUrl[_$_8f87[141]]= _$_8f87[142];githubUrl[_$_8f87[143]]= _$_8f87[144];githubUrl[_$_8f87[10]][_$_8f87[32]]= _$_8f87[33];githubUrl[_$_8f87[10]][_$_8f87[34]]= _$_8f87[118];githubUrl[_$_8f87[10]][_$_8f87[54]]= _$_8f87[138];githubUrl[_$_8f87[10]][_$_8f87[42]]= _$_8f87[43];githubContainer[_$_8f87[57]](githubUrl);uiElement[_$_8f87[57]](githubContainer);closeButton[_$_8f87[126]](_$_8f87[145],()=>
+{
+	document[_$_8f87[147]][_$_8f87[146]](uiElement);autoAnswer= false;showAnswers= false
+}
+);let isMinimized=false;//384
+minimizeButton[_$_8f87[126]](_$_8f87[145],()=>
+{
+	isMinimized=  !isMinimized;if(isMinimized)
+	{
+		header[_$_8f87[10]][_$_8f87[67]]= _$_8f87[94];header2[_$_8f87[10]][_$_8f87[67]]= _$_8f87[94];header3[_$_8f87[10]][_$_8f87[67]]= _$_8f87[94];header4[_$_8f87[10]][_$_8f87[67]]= _$_8f87[94];inputContainer[_$_8f87[10]][_$_8f87[67]]= _$_8f87[94];questionsLabel[_$_8f87[10]][_$_8f87[67]]= _$_8f87[94];versionLabel[_$_8f87[10]][_$_8f87[67]]= _$_8f87[94];inputLagLabel[_$_8f87[10]][_$_8f87[67]]= _$_8f87[94];githubContainer[_$_8f87[10]][_$_8f87[67]]= _$_8f87[94];pointsContainer[_$_8f87[10]][_$_8f87[67]]= _$_8f87[94];autoAnswerSwitchContainer[_$_8f87[10]][_$_8f87[67]]= _$_8f87[94];showAnswersSwitchContainer[_$_8f87[10]][_$_8f87[67]]= _$_8f87[94];uiElement[_$_8f87[10]][_$_8f87[17]]= _$_8f87[63];handle[_$_8f87[10]][_$_8f87[17]]= _$_8f87[110];closeButton[_$_8f87[10]][_$_8f87[17]]= _$_8f87[110];minimizeButton[_$_8f87[10]][_$_8f87[17]]= _$_8f87[110]
+	}
+	else 
+	{
+		header[_$_8f87[10]][_$_8f87[67]]= _$_8f87[80];header2[_$_8f87[10]][_$_8f87[67]]= _$_8f87[80];header3[_$_8f87[10]][_$_8f87[67]]= _$_8f87[80];header4[_$_8f87[10]][_$_8f87[67]]= _$_8f87[80];inputContainer[_$_8f87[10]][_$_8f87[67]]= _$_8f87[68];questionsLabel[_$_8f87[10]][_$_8f87[67]]= _$_8f87[80];versionLabel[_$_8f87[10]][_$_8f87[67]]= _$_8f87[80];inputLagLabel[_$_8f87[10]][_$_8f87[67]]= _$_8f87[80];githubContainer[_$_8f87[10]][_$_8f87[67]]= _$_8f87[80];handle[_$_8f87[10]][_$_8f87[17]]= _$_8f87[63];uiElement[_$_8f87[10]][_$_8f87[17]]= _$_8f87[18];closeButton[_$_8f87[10]][_$_8f87[17]]= _$_8f87[63];minimizeButton[_$_8f87[10]][_$_8f87[17]]= _$_8f87[63];pointsContainer[_$_8f87[10]][_$_8f87[67]]= _$_8f87[68];autoAnswerSwitchContainer[_$_8f87[10]][_$_8f87[67]]= _$_8f87[68];showAnswersSwitchContainer[_$_8f87[10]][_$_8f87[67]]= _$_8f87[68]
+	}
+	
+}
+);function parseQuestions(_0x12213)
+{
+	let questions=[];//431
+	_0x12213[_$_8f87[156]](function(_0x1216B)
+	{
+		let _0x1221F={type:_0x1216B[_$_8f87[85]],time:_0x1216B[_$_8f87[148]]};//433
+		if([_$_8f87[150],_$_8f87[151]][_$_8f87[149]](_0x1216B[_$_8f87[85]]))
+		{
+			var _0x121B3=0;//435
+			_0x1221F[_$_8f87[152]]= [];_0x1221F[_$_8f87[153]]= [];_0x1216B[_$_8f87[157]][_$_8f87[156]](function(_0x1222B)
+			{
+				if(_0x1222B[_$_8f87[154]])
+				{
+					_0x1221F[_$_8f87[152]][_$_8f87[155]](_0x121B3)
+				}
+				else 
+				{
+					_0x1221F[_$_8f87[153]][_$_8f87[155]](_0x121B3)
+				}
+				//439
+				_0x121B3++
+			}
+			)
+		}
+		//434
+		if(_0x1216B[_$_8f87[85]]== _$_8f87[158])
+		{
+			_0x1221F[_$_8f87[152]]= [];_0x1216B[_$_8f87[157]][_$_8f87[156]](function(_0x1222B)
+			{
+				_0x1221F[_$_8f87[152]][_$_8f87[155]](_0x1222B[_$_8f87[159]])
+			}
+			)
+		}
+		//448
+		questions[_$_8f87[155]](_0x1221F)
+	}
+	);return questions
+}
+function handleInputChange()
+{
+	const _0x121CB=inputBox[_$_8f87[108]];//461
+	const _0x121D7=_$_8f87[160]+ _0x121CB;//462
+	if(_0x121CB!= _$_8f87[161])
+	{
+		fetch(_0x121D7)[_$_8f87[167]]((_0x121E3)=>
+		{
+			if(!_0x121E3[_$_8f87[168]])
+			{
+				throw  new Error(_$_8f87[161])
+			}
+			//467
+			return _0x121E3[_$_8f87[169]]()
+		}
+		)[_$_8f87[167]]((_0x121EF)=>
+		{
+			inputBox[_$_8f87[10]][_$_8f87[19]]= _$_8f87[165];questions= parseQuestions(_0x121EF[_$_8f87[166]]);info[_$_8f87[163]]= questions[_$_8f87[3]]
+		}
+		)[_$_8f87[164]]((_0x121FB)=>
+		{
+			inputBox[_$_8f87[10]][_$_8f87[19]]= _$_8f87[162];info[_$_8f87[163]]= 0
+		}
+		)
+	}
+	else 
+	{
+		inputBox[_$_8f87[10]][_$_8f87[19]]= _$_8f87[43];info[_$_8f87[163]]= 0
+	}
+	
+}
+inputBox[_$_8f87[126]](_$_8f87[84],handleInputChange);document[_$_8f87[147]][_$_8f87[57]](uiElement);let isDragging=false;//494
+let offsetX,offsetY;//495
+handle[_$_8f87[126]](_$_8f87[170],(_0x120FF)=>
+{
+	isDragging= true;offsetX= _0x120FF[_$_8f87[171]]- uiElement[_$_8f87[172]]()[_$_8f87[14]];offsetY= _0x120FF[_$_8f87[173]]- uiElement[_$_8f87[172]]()[_$_8f87[12]]
+}
+);document[_$_8f87[126]](_$_8f87[174],(_0x120FF)=>
+{
+	if(isDragging)
+	{
+		const _0x1210B=_0x120FF[_$_8f87[171]]- offsetX;//505
+		const _0x12117=_0x120FF[_$_8f87[173]]- offsetY;//506
+		uiElement[_$_8f87[10]][_$_8f87[14]]= _0x1210B+ _$_8f87[175];uiElement[_$_8f87[10]][_$_8f87[12]]= _0x12117+ _$_8f87[175]
+	}
+	
+}
+);document[_$_8f87[126]](_$_8f87[176],()=>
+{
+	isDragging= false
+}
+);function onQuestionStart()
+{
+	var _0x1216B=questions[info[_$_8f87[125]]];//518
+	if(!_0x1216B)
+	{
+		return
+	}
+	//519
+	if(showAnswers)
+	{
+		highlightAnswers(_0x1216B)
+	}
+	//521
+	if(autoAnswer)
+	{
+		let _0x12207=(_0x1216B[_$_8f87[148]]- _0x1216B[_$_8f87[148]]/ (500/ (PPT- 500)))- inputLag;//526
+		if(_0x12207< 0)
+		{
+			_0x12207= 0
+		}
+		//527
+		answer(_0x1216B,_0x12207)
+	}
+	
+}
+function highlightAnswers(_0x1216B)
+{
+	_0x1216B[_$_8f87[152]][_$_8f87[156]](function(answer)
+	{
+		setTimeout(function()
+		{
+			FindByAttributeValue(_$_8f87[177],_$_8f87[178]+ answer,_$_8f87[179])[_$_8f87[10]][_$_8f87[19]]= _$_8f87[180]
+		}
+		,0)
+	}
+	);_0x1216B[_$_8f87[153]][_$_8f87[156]](function(answer)
+	{
+		setTimeout(function()
+		{
+			FindByAttributeValue(_$_8f87[177],_$_8f87[178]+ answer,_$_8f87[179])[_$_8f87[10]][_$_8f87[19]]= _$_8f87[181]
+		}
+		,0)
+	}
+	)
+}
+function answer(_0x1216B,_0x12177)
+{
+	Answered_PPT= PPT;var _0x1215F=0;//548
+	if(_0x1216B[_$_8f87[85]]== _$_8f87[151])
+	{
+		_0x1215F= 60
+	}
+	//549
+	setTimeout(function()
+	{
+		if(_0x1216B[_$_8f87[85]]== _$_8f87[150])
+		{
+			const _0x12183=(+_0x1216B[_$_8f87[152]][0]+ 1)[_$_8f87[182]]();//552
+			const _0x12123= new KeyboardEvent(_$_8f87[183],{key});//553
+			window[_$_8f87[184]](_0x12123)
+		}
+		//551
+		if(_0x1216B[_$_8f87[85]]== _$_8f87[151])
+		{
+			_0x1216B[_$_8f87[152]][_$_8f87[156]](function(answer)
+			{
+				setTimeout(function()
+				{
+					const _0x12183=(+answer+ 1)[_$_8f87[182]]();//559
+					const _0x12123= new KeyboardEvent(_$_8f87[183],{key});//560
+					window[_$_8f87[184]](_0x12123)
+				}
+				,0)
+			}
+			);setTimeout(function()
+			{
+				FindByAttributeValue(_$_8f87[177],_$_8f87[185],_$_8f87[179])[_$_8f87[145]]()
+			}
+			,0)
+		}
+		
+	}
+	,_0x12177- _0x1215F)
+}
+let isHidden=false;//571
+document[_$_8f87[126]](_$_8f87[183],(_0x12123)=>
+{
+	if(_0x12123[_$_8f87[186]]== _$_8f87[187]&& _0x12123[_$_8f87[188]])
+	{
+		isHidden=  !isHidden
+	}
+	//573
+	if(_0x12123[_$_8f87[186]]== _$_8f87[189]&& _0x12123[_$_8f87[188]])
+	{
+		document[_$_8f87[147]][_$_8f87[146]](uiElement);autoAnswer= false;showAnswers= false
+	}
+	//578
+	if(isHidden)
+	{
+		uiElement[_$_8f87[10]][_$_8f87[67]]= _$_8f87[94]
+	}
+	else 
+	{
+		uiElement[_$_8f87[10]][_$_8f87[67]]= _$_8f87[80]
+	}
+	
+}
+);setInterval(function()
+{
+	var _0x12153=FindByAttributeValue(_$_8f87[177],_$_8f87[190],_$_8f87[5]);//595
+	if(_0x12153)
+	{
+		info[_$_8f87[125]]= +_0x12153[_$_8f87[40]]- 1
+	}
+	//596
+	if(FindByAttributeValue(_$_8f87[177],_$_8f87[191],_$_8f87[179])&& info[_$_8f87[192]]!= info[_$_8f87[125]])
+	{
+		info[_$_8f87[192]]= info[_$_8f87[125]];onQuestionStart()
+	}
+	//600
+	if(autoAnswer)
+	{
+		if(info[_$_8f87[124]]!= info[_$_8f87[125]])
+		{
+			var _0x12147=Answered_PPT;//606
+			if(_0x12147> 987)
+			{
+				_0x12147= 1000
+			}
+			//607
+			var _0x1213B=FindByAttributeValue(_$_8f87[177],_$_8f87[193],_$_8f87[115]);//608
+			if(_0x1213B)
+			{
+				info[_$_8f87[124]]= info[_$_8f87[125]];var _0x1212F=+_0x1213B[_$_8f87[40]][_$_8f87[195]](_$_8f87[194])[1];//611
+				if(_0x1212F!= 0)
+				{
+					inputLag+= (_0x12147- _0x1212F)* 15;if(inputLag< 0)
+					{
+						inputLag-= (_0x12147- _0x1212F)* 15;inputLag+= (_0x12147- _0x1212F/ 2)* 15
+					}
+					//614
+					inputLag= Math[_$_8f87[196]](inputLag)
+				}
+				
+			}
+			
+		}
+		
+	}
+	//604
+	questionsLabel[_$_8f87[40]]= _$_8f87[197]+ (info[_$_8f87[125]]+ 1)+ _$_8f87[198]+ info[_$_8f87[163]];inputLagLabel[_$_8f87[40]]= _$_8f87[199]+ inputLag+ _$_8f87[200]
+}
+,1);closeButton[_$_8f87[126]](_$_8f87[201],()=>
+{
+	return closeButton[_$_8f87[10]][_$_8f87[19]]= _$_8f87[202]
+}
+);closeButton[_$_8f87[126]](_$_8f87[203],()=>
+{
+	return closeButton[_$_8f87[10]][_$_8f87[19]]= _$_8f87[64]
+}
+);minimizeButton[_$_8f87[126]](_$_8f87[201],()=>
+{
+	return minimizeButton[_$_8f87[10]][_$_8f87[19]]= _$_8f87[204]
+}
+);minimizeButton[_$_8f87[126]](_$_8f87[203],()=>
+{
+	return minimizeButton[_$_8f87[10]][_$_8f87[19]]= _$_8f87[64]
+}
+)
